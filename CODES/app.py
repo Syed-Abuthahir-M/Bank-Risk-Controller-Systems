@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 
+# this is for update purpose
 
 # Set the page configuration with custom title and icon
 st.set_page_config(page_title='Bank Risk Controller Systems', page_icon='', layout='wide')
