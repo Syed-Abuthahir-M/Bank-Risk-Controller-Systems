@@ -134,7 +134,7 @@ def home():
 
 def models_data():
     st.header("Model Data")
-    df = data.head(5000)
+    df = data.head(5)
     st.dataframe(df)
 
     st.subheader("Model Performance")
